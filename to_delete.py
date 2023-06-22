@@ -18,6 +18,10 @@ class ToDeleteOperator(bpy.types.Operator):
     bl_label = "Add toDelete Collection"
     
     TO_DELETE_COLLECTION_NAME = "ToDelete"
+
+    @classmethod
+    def poll(cls, context):
+        return len(context.selected_objects) > 0
     
     def execute(self, context):
         # Create a new collection called "ToDelete"
