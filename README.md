@@ -1,23 +1,23 @@
-# Blender Addon : ToDelete
+# Blender Addon : ToDelete Collection
 
-Link selected object to ToDelete collection
+Link Selected Items to ToDelete Collection.
 
 ![Demo](.media/demo.gif)
 
 ## ⚙️ Installation
 
-1. Download latest version from [Release](https://github.com/Ni-g-3l/blender-to-delete/releases)
+1. Download latest version from [Release](https://github.com/Nig3l/blender-to-delete/releases)
 2. Install it with Blender Addon Manager
 
 ## 🔢 Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Ni-g-3l/blender-to-delete/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Nig3l/blender-to-delete/tags).
 
 ## 🤹 Authors / Contributers / Attributions
 
-* **Nig3l** - *Main Developer* - [Github](https://github.com/Ni-g-3l/)
+* **Nig3l** - *Main Developer* - [Github](https://github.com/Nig3l/)
 
-See also the list of [contributors](https://github.com/Ni-g-3l/blender-to-delete/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Nig3l/blender-to-delete/contributors) who participated in this project.
 
 ## 📃 License
 
